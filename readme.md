@@ -13,12 +13,20 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Make user-themes directory
+    ```
+    mkdir -p ~/.config/ulauncher/user-themes
+    ```
+2. Clone repo
+   ```
+   git clone https://github.com/matthewgiblett/ulauncher ~/.config/ulauncher/user-themes/
+   ```
+3. Select colour theme in Ulauncher preferences
 
 ## Gallery
 
+**Rosé Pine**
+![rose-pine-ulauncher](https://github.com/matthewgiblett/ulauncher/assets/144533942/9c7b837b-7120-4685-8f68-331dd7c67137)
 
 ## Thanks to
 
