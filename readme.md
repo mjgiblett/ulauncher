@@ -25,8 +25,13 @@
 
 ## Gallery
 
-**Rosé Pine**
+### Rosé Pine
+
 ![rose-pine-ulauncher](https://github.com/matthewgiblett/ulauncher/assets/144533942/9c7b837b-7120-4685-8f68-331dd7c67137)
+
+### Rosé Pine Moon
+
+![rose-pine-moon-ulauncher](https://github.com/matthewgiblett/ulauncher/assets/144533942/91a70652-22c0-4efb-933a-c6bac9eca998)
 
 ## Thanks to
 
