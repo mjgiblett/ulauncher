@@ -33,6 +33,10 @@
 
 ![rose-pine-moon-ulauncher](https://github.com/matthewgiblett/ulauncher/assets/144533942/91a70652-22c0-4efb-933a-c6bac9eca998)
 
+### Rosé Pine Dawn
+
+![rose-pine-dawn-ulauncher](https://github.com/matthewgiblett/ulauncher/assets/144533942/45705b2e-004f-4865-87c7-29839ac18636)
+
 ## Thanks to
 
 - [Matthew Giblett](https://github.com/matthewgiblett)
